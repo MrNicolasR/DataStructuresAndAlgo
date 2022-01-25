@@ -11,4 +11,7 @@ def fib(n):
         return fib(n-1) + fib(n-2)
 
 # Driver code
-print("\nFn is: %d\n" % fib(6))
+print(fib(5))
+
+# Input 5
+# Output 0 + 1 + 1 + 2 + 3 + 5 = 5

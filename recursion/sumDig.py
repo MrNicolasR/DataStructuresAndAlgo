@@ -14,3 +14,6 @@ def sumDig(n):
         return n % 10 + sumDig(n//10)
 
 print(sumDig(12341))
+
+# Input 12341
+# Output 1 + 2 + 3 + 4 + 1 = 11

@@ -12,4 +12,9 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
+
+# Driver Code
 print(factorial(7))
+
+# Input 4
+# Output 4! = 4 * 3 * 2 * 1 = 24

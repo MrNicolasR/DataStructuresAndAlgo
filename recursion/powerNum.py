@@ -14,3 +14,6 @@ def pwrNum(x, n):
 
 # Driver Code
 print(pwrNum(2, 4))
+
+# Input 2,4
+# Output 2 * 2 * 2 * 2 = 16

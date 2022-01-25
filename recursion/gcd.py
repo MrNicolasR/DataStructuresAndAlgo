@@ -12,3 +12,6 @@ def gcd(a, b):
 
 # Run function
 print(gcd(48,36))
+
+# Input 48, 36
+# Output 12

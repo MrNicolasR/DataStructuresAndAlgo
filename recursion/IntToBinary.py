@@ -12,4 +12,6 @@ def toBinary(n):
 
 # Driver Code
 print(toBinary(4))
-    
+
+# Input 4
+# Output 100
